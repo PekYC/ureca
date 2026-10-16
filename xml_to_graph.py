@@ -35,6 +35,41 @@ def parse_drawio_xml(file_path):
             return "Entity"
         return "Unknown"
 
+    def findIntended(nodes, point_x, point_y, threshold=15.0):
+        closest_node = None
+        min_dist = float("inf")
+
+        for node_id, node_data in nodes.items():
+            nodex, nodey, nodew, nodeh = node_data['bbox']
+            node_left, node_right = nodex, nodex + nodew
+            node_top, node_bottom = nodey, nodey + nodeh
+
+            # Calculate distance from the exact arc tip to the entity's bounding box
+            dx = max(0, node_left - point_x, point_x - node_right)
+            dy = max(0, node_top - point_y, point_y - node_bottom)
+
+            dist = math.hypot(dx, dy)
+
+            if dist < min_dist:
+                min_dist = dist
+                closest_node = node_id
+
+
+#         print(f"Mid angle: {mid_angle} (0-1)\n\
+# rotation: {orientation}\n\
+# direction: {direction}\n\
+# offset_angle: {mid_angle_offsetted}\n\
+# tip_x: {tip_x}\n\
+# tip_y: {tip_y}\n\
+# original_xy = ({cx}, {cy})")
+
+        # Using 15px threshold to account for Draw.io's visual gaps between arrows and shapes
+        if min_dist <= 15.0:
+            return closest_node
+
+        return None
+
+
     def findIntendedNode(nodes, arc_obj):
         ax, ay, aw, ah = arc_obj["bbox"]
         cx = ax + (aw / 2.0)
@@ -69,38 +104,7 @@ def parse_drawio_xml(file_path):
         tip_x = cx + (aw / 2.0) * math.cos(theta_rad)
         tip_y = cy + (ah / 2.0) * math.sin(theta_rad)
 
-        closest_node = None
-        min_dist = float("inf")
-
-        for node_id, node_data in nodes.items():
-            nodex, nodey, nodew, nodeh = node_data['bbox']
-            node_left, node_right = nodex, nodex + nodew
-            node_top, node_bottom = nodey, nodey + nodeh
-
-            # Calculate distance from the exact arc tip to the entity's bounding box
-            dx = max(0, node_left - tip_x, tip_x - node_right)
-            dy = max(0, node_top - tip_y, tip_y - node_bottom)
-
-            dist = math.hypot(dx, dy)
-
-            if dist < min_dist:
-                min_dist = dist
-                closest_node = node_id
-
-
-#         print(f"Mid angle: {mid_angle} (0-1)\n\
-# rotation: {orientation}\n\
-# direction: {direction}\n\
-# offset_angle: {mid_angle_offsetted}\n\
-# tip_x: {tip_x}\n\
-# tip_y: {tip_y}\n\
-# original_xy = ({cx}, {cy})")
-
-        # Using 15px threshold to account for Draw.io's visual gaps between arrows and shapes
-        if min_dist <= 15.0:
-            return closest_node
-
-        return None
+        return findIntended(nodes, tip_x, tip_y)
 
     for cell in root.findall(".//mxCell[@vertex='1']"):
         cell_id = cell.get("id")
@@ -148,6 +152,26 @@ def parse_drawio_xml(file_path):
         tgt = cell.get("target")
         cardinality = "m"
 
+        if src is None:
+            src_point_tag = cell.find("./mxGeometry/mxPoint[@as='sourcePoint']")
+
+            if src_point_tag is not None:
+                src_x = float(src_point_tag.get("x", 0.0))
+                src_y = float(src_point_tag.get("y", 0.0))
+
+                src = findIntended(nodes, src_x, src_y)
+                # print(f"Fixed a src! New source is {nodes[src]["label"]}. It has {nodes[src]["centroid"]}")
+
+        if tgt is None:
+            tgt_point_tag = cell.find("./mxGeometry/mxPoint[@as='targetPoint']")
+
+            if tgt_point_tag is not None:
+                tgt_x = float(tgt_point_tag.get("x", 0.0))
+                tgt_y = float(tgt_point_tag.get("y", 0.0))
+
+                tgt = findIntended(nodes, tgt_x, tgt_y)
+                # print(f"Fixed a tgt! New target is {nodes[tgt]["label"]}. It has {nodes[tgt]["centroid"]}")
+
         if src in referential_constraints:
             # print(f"Problem with ref con {src}. Looking for nearest node...")
             node_id = findIntendedNode(nodes, referential_constraints[src])
@@ -162,9 +186,31 @@ def parse_drawio_xml(file_path):
             cardinality = "1"
 
         if src and tgt:
-            edges.append((src, tgt, {"cardinality":cardinality}))
+            if src in nodes and tgt in nodes:
+                edges.append((src, tgt, {"cardinality":cardinality}))
+            else:
+                print(f"Edge with missing src or tgt found. Details: src={src}, tgt={tgt}")
 
     return nodes, edges
 
 
+def merge_attributes_into_dictionary(nodes, edges):
+    nodes_copy = nodes.copy()
 
+    for node_id, node_data in nodes_copy.items():
+        if node_data.get("type") == "Attribute":
+            connected_edges = [edge for edge in edges if edge[0] == node_id or edge[1] == node_id]
+
+            if connected_edges:
+                connected_edge = connected_edges[0]
+                target_node_id = connected_edge[0] if connected_edge[1] == node_id else connected_edge[1]
+
+                if target_node_id in nodes:
+                    if "attributes" not in nodes[target_node_id]:
+                        nodes[target_node_id]["attributes"] = []
+
+                    edges = [edge for edge in edges if edge not in connected_edges]
+
+            del nodes[node_id]
+
+    return nodes, edges
