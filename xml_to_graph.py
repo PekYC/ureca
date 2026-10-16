@@ -1,4 +1,3 @@
-import networkx as nx
 import xml.etree.ElementTree as ET
 import math
 import re
@@ -89,13 +88,13 @@ def parse_drawio_xml(file_path):
                 closest_node = node_id
 
 
-        print(f"Mid angle: {mid_angle} (0-1)\n\
-rotation: {orientation}\n\
-direction: {direction}\n\
-offset_angle: {mid_angle_offsetted}\n\
-tip_x: {tip_x}\n\
-tip_y: {tip_y}\n\
-original_xy = ({cx}, {cy})")
+#         print(f"Mid angle: {mid_angle} (0-1)\n\
+# rotation: {orientation}\n\
+# direction: {direction}\n\
+# offset_angle: {mid_angle_offsetted}\n\
+# tip_x: {tip_x}\n\
+# tip_y: {tip_y}\n\
+# original_xy = ({cx}, {cy})")
 
         # Using 15px threshold to account for Draw.io's visual gaps between arrows and shapes
         if min_dist <= 15.0:
@@ -147,20 +146,23 @@ original_xy = ({cx}, {cy})")
     for cell in root.findall(".//mxCell[@edge='1']"):
         src = cell.get("source")
         tgt = cell.get("target")
+        cardinality = "m"
 
         if src in referential_constraints:
-            print(f"Problem with ref con {src}. Looking for nearest node...")
+            # print(f"Problem with ref con {src}. Looking for nearest node...")
             node_id = findIntendedNode(nodes, referential_constraints[src])
-            print(f"Found intended node for {src}, it is {nodes[node_id]['label']}")
+            # print(f"Found intended node for {src}, it is {nodes[node_id]['label']}")
             src = node_id
+            cardinality = "1"
         elif tgt in referential_constraints:
-            print(f"Problem with ref con {tgt}. Looking for nearest node...")
+            # print(f"Problem with ref con {tgt}. Looking for nearest node...")
             node_id = findIntendedNode(nodes, referential_constraints[tgt])
-            print(f"Found intended node for {tgt}, it is {nodes[node_id]['label']}")
+            # print(f"Found intended node for {tgt}, it is {nodes[node_id]['label']}")
             tgt = node_id
+            cardinality = "1"
 
         if src and tgt:
-            edges.append((src, tgt))
+            edges.append((src, tgt, {"cardinality":cardinality}))
 
     return nodes, edges
 
