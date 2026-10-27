@@ -21,7 +21,7 @@ def parse_drawio_xml(file_path):
         return text.replace('&gt;', '>').replace('&lt;', '<').strip()
 
     def get_shape_type(style):
-        if "shape=rhombus" in style:
+        if "rhombus" in style:
             return "Relationship"
         elif "ellipse" in style:
             return "Attribute"
@@ -31,6 +31,8 @@ def parse_drawio_xml(file_path):
             return "Subclass"
         elif "text" in style:
             return "Text"
+        elif "shape=ext" in style:
+            return "Weak Entity"
         elif "whiteSpace=wrap" in style or "rounded=0" in style:
             return "Entity"
         return "Unknown"
@@ -64,7 +66,7 @@ def parse_drawio_xml(file_path):
 # original_xy = ({cx}, {cy})")
 
         # Using 15px threshold to account for Draw.io's visual gaps between arrows and shapes
-        if min_dist <= 15.0:
+        if min_dist <= threshold:
             return closest_node
 
         return None

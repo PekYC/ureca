@@ -15,11 +15,11 @@ nodes, edges = merge_attributes_into_dictionary(nodes, edges)
 #         count += 1
 # print(count)
 
-# for edge in edges:
-#     source = edge[0]
-#     target = edge[1]
+for edge in edges:
+    source = edge[0]
+    target = edge[1]
 
-    # print(f"[{nodes[source]["label"]} -> {nodes[target]['label']}]")
+    print(f"[{nodes[source]["label"]} -> {nodes[target]['label']}]")
 
 # G = nx.Graph()
 # G.add_nodes_from(nodes)
@@ -59,7 +59,7 @@ nx.draw(
     node_color="lightblue", 
     node_size=800, 
     font_size=8,
-    arrows=True,             # Explicitly draw arrows for the DiGraph
+    arrows=False,           
     edge_color="black"       # Ensure edges are visible
 )
 
