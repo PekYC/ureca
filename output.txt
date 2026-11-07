@@ -1,0 +1,819 @@
+======= Processing 102-6-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Entity_3_0', 'node_Subclass_0_2', 'node_Relationship_0_2', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.6916225477851605
+======= Processing 104-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_0_3', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_0_2', 'node_Weak Entity_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.225060317214526
+======= Processing 105-4-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_1_2', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Weak Entity_3_0', 'node_Weak Entity_0_3', 'node_Unknown_0_0', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Weak Entity_2_2', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Weak Entity', 'path_Weak Entity_Weak Entity'])
+Similarity score: 0.19392195708368667
+======= Processing 106-4-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_2', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Weak Entity_2_1', 'node_Relationship_2_0', 'node_Subclass_0_2', 'node_Weak Entity_1_1', 'path_Entity_Entity', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.28142744024813227
+======= Processing 107-4-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Entity_3_0', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Relationship_2_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.5542577927017911
+======= Processing 112-6-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_1_1', 'node_Entity_0_3', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Entity_0_1', 'node_Weak Entity_1_3', 'node_Weak Entity_0_3', 'node_Entity_1_2', 'node_Relationship_2_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.07526658771074438
+======= Processing 114-1-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Relationship_0_2', 'node_Weak Entity_2_3', 'node_Relationship_1_1', 'node_Subclass_1_1', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Weak Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.8063607795654998
+======= Processing 115-4-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Entity_1_2', 'node_Relationship_1_1', 'node_Weak Entity_2_0', 'node_Weak Entity_1_1', 'node_Subclass_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Entity_Entity'])
+Similarity score: 0.33673278652522837
+======= Processing 116-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity'])
+Similarity score: 0.25777491755679216
+======= Processing 117-6-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Weak Entity_2_0', 'node_Weak Entity_1_2', 'node_Relationship_0_2', 'node_Subclass_0_2', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.7154498816626003
+======= Processing 118-6-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Relationship_0_2', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_3_0', 'node_Unknown_0_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Relationship_Weak Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.2960482268948691
+======= Processing 119-5-48.xml ==========
+dict_keys(['node_Entity_3_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Relationship_1_2', 'node_Relationship_2_0', 'node_Weak Entity_0_0', 'node_Relationship_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Relationship'])
+Similarity score: 0.46945483347267775
+======= Processing 120-7-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_1_1', 'node_Subclass_0_2', 'node_Entity_1_0', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.37637327166343987
+======= Processing 122-2-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_2_0', 'node_Entity_0_2', 'node_Entity_2_1', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Subclass_1_1', 'node_Relationship_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Entity_Entity', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.22893427324781504
+======= Processing 124-4-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Entity_0_2', 'node_Weak Entity_0_3', 'node_Relationship_2_0', 'node_Weak Entity_2_0', 'node_Weak Entity_0_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.21681133918446016
+======= Processing 125-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_0_2', 'node_Entity_2_0', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Entity_Weak Entity', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Entity'])
+Similarity score: 0.29634711463065444
+======= Processing 126-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Entity_0_2', 'node_Relationship_0_2', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Weak Entity_2_0', 'node_Weak Entity_3_0', 'node_Relationship_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.6168493695012488
+======= Processing 129-12-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Unknown_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.1462653486683251
+======= Processing 13-7-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Weak Entity_1_0', 'node_Relationship_2_1', 'node_Unknown_0_0', 'node_Weak Entity_1_1', 'node_Subclass_0_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Subclass_Entity'])
+Similarity score: 0.19665338677388713
+======= Processing 130-6-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_1_2', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Weak Entity_2_1', 'node_Weak Entity_1_1', 'node_Relationship_1_2', 'node_Relationship_2_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Weak Entity', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Relationship'])
+Similarity score: 0.4441088880021607
+======= Processing 131-4-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Entity_0_3', 'node_Relationship_0_2', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_0_2', 'node_Relationship_2_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.6344412685745152
+======= Processing 132-5-48.xml ==========
+dict_keys(['node_Subclass_1_1', 'node_Entity_3_0', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Unknown_0_0', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.3129045061751296
+======= Processing 134-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Relationship_0_2', 'node_Relationship_2_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.26046926740277987
+======= Processing 136-5-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Relationship_1_1', 'node_Weak Entity_2_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_0_2', 'path_Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity'])
+Similarity score: 0.1578339526330554
+======= Processing 137-4-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_0_1', 'node_Entity_2_0', 'node_Entity_1_0', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Relationship_1_2', 'node_Unknown_0_0', 'node_Entity_0_0', 'node_Unknown_2_0', 'node_Relationship_1_1', 'node_Relationship_0_0', 'path_Entity_Relationship', 'path_Entity_Entity', 'path_Relationship_Entity', 'path_Relationship_Unknown'])
+Similarity score: 0.46627239736234016
+======= Processing 139-7-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Weak Entity_0_1', 'node_Subclass_2_1', 'node_Entity_1_1', 'node_Entity_1_2', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Relationship_3_1', 'node_Weak Entity_1_2', 'path_Weak Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5429066013288526
+======= Processing 14-7-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Unknown_0_0', 'node_Subclass_0_2', 'node_Text_0_0', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.24094636829546748
+======= Processing 140-4-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_2_1', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Weak Entity_2_1', 'node_Relationship_0_0', 'node_Relationship_2_0', 'node_Weak Entity_2_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.2681003687555546
+======= Processing 141-9-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_0', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'node_Relationship_1_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.3453895980440139
+======= Processing 142-13-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_0_3', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Weak Entity_0_2', 'node_Relationship_1_0', 'node_Entity_0_0', 'node_Weak Entity_1_1', 'node_Relationship_0_1', 'node_Unknown_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.07041302980671318
+======= Processing 143-1-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Relationship_0_2', 'node_Weak Entity_1_1', 'node_Weak Entity_1_0', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'node_Relationship_2_2', 'node_Entity_0_1', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Entity_Relationship'])
+Similarity score: 0.45090814169255405
+======= Processing 144-9-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_2_0', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Relationship_0_2', 'node_Weak Entity_1_2', 'node_Entity_0_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Weak Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity'])
+Similarity score: 0.38851434494290565
+======= Processing 145-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Weak Entity_0_2', 'node_Weak Entity_1_2', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.688694842115344
+======= Processing 146-6-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Subclass_0_3', 'node_Entity_2_0', 'node_Entity_1_0', 'node_Weak Entity_0_3', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4766563309782377
+======= Processing 148-7-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Relationship_2_0', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'node_Relationship_1_1', 'node_Relationship_1_2', 'node_Subclass_0_2', 'node_Weak Entity_2_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Relationship_Relationship', 'path_Weak Entity_Weak Entity'])
+Similarity score: 0.26229986607815103
+======= Processing 149-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Relationship_0_2', 'node_Subclass_0_2', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_2_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.7985836518841366
+======= Processing 15-7-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_1_2', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Weak Entity_2_1', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'node_Subclass_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.23552430471865862
+======= Processing 150-8-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Weak Entity_2_1', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Text_0_0', 'node_Weak Entity_0_2', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'node_Weak Entity_2_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Subclass_Weak Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.05203368971202988
+======= Processing 153-3-48.xml ==========
+dict_keys(['node_Relationship_0_0', 'node_Entity_0_0', 'node_Relationship_2_0', 'node_Entity_0_2', 'node_Relationship_1_0', 'node_Entity_0_3', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Unknown_0_0', 'node_Unknown_1_1', 'node_Relationship_0_1', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Entity_Entity', 'path_Relationship_Entity', 'path_Relationship_Unknown', 'path_Unknown_Entity'])
+Similarity score: 0.45132756725997825
+======= Processing 154-2-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_0_3', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Relationship_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.12463999656079873
+======= Processing 155-6-48.xml ==========
+dict_keys(['node_Entity_2_3', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_2', 'node_Entity_2_0', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Relationship_0_3', 'node_Relationship_1_1', 'node_Unknown_0_0', 'path_Entity_Entity', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.5503953220024498
+======= Processing 157-5-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_2_1', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.2412200155935344
+======= Processing 158-5-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_2_1', 'node_Relationship_0_2', 'node_Entity_1_1', 'node_Weak Entity_2_0', 'node_Weak Entity_1_1', 'node_Subclass_2_1', 'node_Weak Entity_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Entity_Weak Entity', 'path_Weak Entity_Subclass', 'path_Subclass_Weak Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Entity'])
+Similarity score: 0.5000857559392293
+======= Processing 159-2-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Relationship_0_2', 'node_Relationship_1_2', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Relationship_Entity'])
+Similarity score: 0.8672453567378406
+======= Processing 16-4-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Relationship_1_1', 'node_Entity_1_0', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Entity_0_3', 'node_Relationship_2_0', 'node_Entity_2_0', 'node_Relationship_2_1', 'node_Entity_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.529160597481769
+======= Processing 160-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_2', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Subclass_0_2', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.17753661494335407
+======= Processing 161-5-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_2', 'node_Entity_0_0', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Weak Entity_3_0', 'node_Relationship_1_2', 'node_Relationship_1_1', 'node_Weak Entity_0_2', 'node_Relationship_2_2', 'node_Relationship_3_1', 'node_Entity_2_1', 'node_Relationship_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Relationship'])
+Similarity score: 0.33488438513880336
+======= Processing 164-6-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_0', 'node_Relationship_2_0', 'node_Subclass_1_2', 'node_Weak Entity_1_1', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.3602198747425659
+======= Processing 165-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_2_0', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Relationship_2_2', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4736432113302788
+======= Processing 166-8-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Weak Entity_0_2', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Weak Entity_0_3', 'node_Unknown_0_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.21769061943963972
+======= Processing 167-8-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_3', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Relationship_1_0', 'node_Subclass_1_1', 'node_Subclass_0_2', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_1', 'node_Weak Entity_2_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.19325669969565118
+======= Processing 168-8-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Entity_1_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity'])
+Similarity score: 0.6489676645639563
+======= Processing 17-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Weak Entity_2_0', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_2_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Relationship'])
+Similarity score: 0.161010004367325
+======= Processing 170-7-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_2_0', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Subclass_0_2', 'node_Weak Entity_2_1', 'node_Relationship_0_2', 'node_Entity_1_0', 'node_Weak Entity_0_2', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.37714072090825573
+======= Processing 171-5-48.xml ==========
+dict_keys(['node_Entity_5_0', 'node_Entity_1_0', 'node_Subclass_0_2', 'node_Entity_1_2', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'node_Weak Entity_0_3', 'node_Relationship_2_0', 'path_Subclass_Entity', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.5898208112622201
+======= Processing 172-5-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_2_1', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_3_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Entity_Weak Entity', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Weak Entity'])
+Similarity score: 0.4591710867206369
+======= Processing 173-7-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Relationship_0_2', 'node_Entity_2_1', 'node_Weak Entity_1_0', 'node_Weak Entity_1_1', 'node_Weak Entity_3_0', 'node_Relationship_1_1', 'node_Relationship_0_3', 'node_Subclass_1_2', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Entity_Weak Entity', 'path_Entity_Relationship', 'path_Weak Entity_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.7554104975081445
+======= Processing 174-4-48.xml ==========
+dict_keys(['node_Entity_4_1', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Subclass_0_2', 'node_Weak Entity_1_1', 'node_Relationship_0_2', 'node_Relationship_1_2', 'node_Weak Entity_1_2', 'node_Weak Entity_2_0', 'node_Relationship_2_1', 'path_Entity_Entity', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Relationship'])
+Similarity score: 0.6256332345201501
+======= Processing 175-9-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Weak Entity_0_3', 'node_Relationship_2_0', 'node_Weak Entity_0_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.1680863056853824
+======= Processing 176-6-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Relationship_1_2', 'node_Weak Entity_0_2', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Relationship_Relationship', 'path_Weak Entity_Relationship', 'path_Weak Entity_Subclass'])
+Similarity score: 0.5591128724297431
+======= Processing 178-5-48.xml ==========
+dict_keys(['node_Unknown_0_0', 'node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_2_0', 'node_Unknown_1_1', 'node_Relationship_0_1', 'node_Relationship_1_1', 'node_Unknown_1_0', 'node_Weak Entity_1_0', 'node_Weak Entity_0_2', 'node_Subclass_0_2', 'node_Entity_1_0', 'path_Entity_Relationship', 'path_Unknown_Unknown', 'path_Relationship_Entity', 'path_Relationship_Unknown', 'path_Weak Entity_Weak Entity', 'path_Weak Entity_Entity', 'path_Subclass_Entity', 'path_Subclass_Unknown'])
+Similarity score: 0.3258561893259653
+======= Processing 179-5-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Relationship_2_0', 'node_Subclass_1_2', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_1', 'node_Weak Entity_2_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.16997502591252123
+======= Processing 18-1-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Relationship_0_2', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.5608799845235941
+======= Processing 180-2-48.xml ==========
+dict_keys(['node_Entity_1_3', 'node_Entity_1_0', 'node_Entity_1_2', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Relationship_0_2', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_0', 'node_Relationship_1_2', 'node_Weak Entity_3_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Relationship'])
+Similarity score: 0.528054920567757
+======= Processing 181-5-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Weak Entity_0_2', 'node_Entity_0_3', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.20962825398581608
+======= Processing 182-5-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_1', 'node_Subclass_2_0', 'node_Entity_0_2', 'node_Weak Entity_0_3', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.10098949511412772
+======= Processing 183-2-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Relationship_1_1', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Subclass_2_0', 'node_Subclass_1_1', 'node_Entity_0_1', 'node_Entity_0_3', 'node_Weak Entity_1_1', 'node_Weak Entity_2_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Entity_Weak Entity', 'path_Weak Entity_Entity'])
+Similarity score: 0.23791547571544328
+======= Processing 184-6-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_2_1', 'node_Relationship_2_0', 'node_Weak Entity_0_2', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4452917404733562
+======= Processing 186-2-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_2_0', 'node_Unknown_1_0', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Subclass_0_2', 'node_Entity_0_0', 'node_Unknown_0_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Unknown_Relationship', 'path_Relationship_Unknown'])
+Similarity score: 0.5109709188977437
+======= Processing 187-6-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.14684461964287046
+======= Processing 188-3-48.xml ==========
+dict_keys(['node_Entity_5_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_1_2', 'node_Subclass_1_1', 'node_Unknown_0_0', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.13619811232281012
+======= Processing 189-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_2_1', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.23628478154439708
+======= Processing 19-4-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_0_1', 'node_Entity_1_2', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Entity_3_0', 'node_Relationship_1_1', 'node_Weak Entity_0_2', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.06245972561815101
+======= Processing 190-3-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_0_0', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Relationship_1_0', 'node_Weak Entity_0_3', 'node_Subclass_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.22088409775002193
+======= Processing 191-5-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Unknown_0_0', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_1', 'node_Weak Entity_0_3', 'node_Weak Entity_0_2', 'node_Relationship_2_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.14128276859958994
+======= Processing 192-2-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Relationship_2_0', 'node_Unknown_0_0', 'node_Weak Entity_0_3', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Entity'])
+Similarity score: 0.3193568243110898
+======= Processing 194-1-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Relationship_0_0', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.49560059129468786
+======= Processing 195-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Unknown_0_0', 'node_Relationship_2_0', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Weak Entity_0_2', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.15312142541525228
+======= Processing 197-3-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_3_0', 'node_Relationship_1_1', 'node_Subclass_1_2', 'node_Relationship_0_2', 'node_Weak Entity_2_0', 'node_Weak Entity_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.7320761398780268
+======= Processing 198-1-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Unknown_0_0', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Entity_0_1', 'node_Relationship_0_2', 'node_Weak Entity_2_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Entity_Weak Entity', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.20978758492911306
+======= Processing 199-9-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Subclass_2_1', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Entity_1_2', 'node_Weak Entity_2_0', 'node_Weak Entity_2_1', 'node_Relationship_2_0', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Entity_Weak Entity', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Weak Entity_Entity'])
+Similarity score: 0.2354752524834669
+======= Processing 200-5-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_1_2', 'node_Subclass_1_1', 'node_Text_0_0', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.2920767384744594
+======= Processing 201-7-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Subclass_2_1', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Entity_0_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_0_3', 'node_Unknown_0_0', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.10209930310827012
+======= Processing 202-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Relationship_0_2', 'node_Subclass_0_2', 'node_Relationship_1_1', 'node_Weak Entity_3_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.7680798844621921
+======= Processing 203-12-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_2_0', 'node_Subclass_1_1', 'node_Relationship_0_1', 'node_Entity_0_0', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'node_Weak Entity_3_1', 'path_Entity_Subclass', 'path_Entity_Weak Entity', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4736432113302788
+======= Processing 204-3-48.xml ==========
+dict_keys(['node_Entity_1_3', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_0', 'node_Entity_0_3', 'node_Subclass_1_1', 'node_Subclass_2_0', 'node_Relationship_1_1', 'node_Unknown_0_0', 'node_Weak Entity_2_0', 'node_Weak Entity_2_1', 'node_Relationship_2_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.2284272199713592
+======= Processing 205-4-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Subclass_1_2', 'node_Entity_1_1', 'node_Weak Entity_0_2', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.1335518060741238
+======= Processing 206-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.6100296046901189
+======= Processing 208-1-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Subclass_2_1', 'node_Entity_0_2', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Subclass'])
+Similarity score: 0.5827715174143585
+======= Processing 209-1-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Subclass_1_2', 'node_Entity_1_1', 'node_Entity_2_1', 'node_Entity_2_0', 'node_Weak Entity_0_2', 'node_Relationship_0_2', 'node_Weak Entity_2_1', 'node_Weak Entity_1_3', 'node_Subclass_2_0', 'node_Relationship_1_1', 'node_Subclass_1_1', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Weak Entity_Subclass', 'path_Relationship_Entity', 'path_Weak Entity_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Weak Entity'])
+Similarity score: 0.5545288506304171
+======= Processing 210-1-48.xml ==========
+dict_keys(['node_Entity_1_3', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Subclass_2_1', 'node_Entity_2_0', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'path_Entity_Relationship', 'path_Entity_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.2368216056651394
+======= Processing 212-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Entity_2_0', 'node_Unknown_0_0', 'node_Entity_0_3', 'node_Relationship_2_0', 'node_Entity_0_2', 'node_Weak Entity_2_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4302436959908032
+======= Processing 214-5-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Entity_1_2', 'node_Subclass_1_1', 'node_Relationship_2_0', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Entity_Weak Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Entity'])
+Similarity score: 0.3442960742012874
+======= Processing 215-2-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Subclass_2_1', 'node_Weak Entity_1_1', 'node_Weak Entity_2_1', 'node_Weak Entity_2_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.3181633425595527
+======= Processing 217-5-48.xml ==========
+dict_keys(['node_Entity_4_1', 'node_Entity_1_0', 'node_Entity_0_1', 'node_Weak Entity_0_2', 'node_Weak Entity_2_1', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Relationship_0_1', 'path_Entity_Entity', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Entity_Relationship'])
+Similarity score: 0.45136591040447416
+======= Processing 219-3-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Unknown_0_0', 'node_Subclass_0_0', 'node_Text_2_0', 'node_Unknown_1_0', 'node_Subclass_1_0', 'node_Text_0_0', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_0_1', 'node_Weak Entity_3_0', 'path_Entity_Text', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Entity_Unknown', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.11512413516691072
+======= Processing 22-3-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Unknown_0_0', 'node_Weak Entity_2_2', 'node_Weak Entity_2_1', 'node_Weak Entity_0_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.16794114066424148
+======= Processing 220-5-48.xml ==========
+dict_keys(['node_Weak Entity_3_0', 'node_Entity_1_2', 'node_Entity_1_0', 'node_Relationship_0_2', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_0', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5917897942199296
+======= Processing 221-5-48.xml ==========
+dict_keys(['node_Entity_0_0', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Relationship_0_3', 'node_Weak Entity_1_1', 'node_Weak Entity_0_2', 'node_Entity_2_0', 'node_Entity_1_1', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Weak Entity_Subclass', 'path_Entity_Relationship'])
+Similarity score: 0.27472112789737807
+======= Processing 222-5-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Subclass_1_1', 'node_Subclass_2_0', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Weak Entity_2_0', 'node_Weak Entity_2_1', 'node_Unknown_0_0', 'node_Weak Entity_0_2', 'node_Relationship_1_1', 'node_Relationship_0_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Entity_Weak Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4208905403548145
+======= Processing 224-6-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_0_3', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_0_3', 'node_Relationship_2_0', 'node_Relationship_1_1', 'node_Unknown_0_0', 'node_Weak Entity_2_3', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Weak Entity_Weak Entity'])
+Similarity score: 0.12066556759161069
+======= Processing 227-8-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Entity_1_2', 'node_Weak Entity_2_1', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_0_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.30292004526127697
+======= Processing 228-1-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_0_1', 'node_Entity_1_0', 'node_Entity_3_0', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'node_Weak Entity_3_0', 'node_Subclass_0_2', 'node_Relationship_1_1', 'node_Unknown_0_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.6529119517584793
+======= Processing 229-8-48.xml ==========
+dict_keys(['node_Weak Entity_3_0', 'node_Entity_1_2', 'node_Entity_1_0', 'node_Relationship_0_2', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_0', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5917897942199296
+======= Processing 23-8-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Weak Entity_1_2', 'node_Subclass_1_1', 'node_Weak Entity_2_0', 'node_Relationship_2_0', 'node_Weak Entity_0_2', 'node_Unknown_0_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.1948595217386999
+======= Processing 230-9-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Entity_2_1', 'node_Subclass_1_1', 'node_Weak Entity_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.4791501911304819
+======= Processing 231-7-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_0_3', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Relationship_3_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity'])
+Similarity score: 0.15370726361370435
+======= Processing 233-10-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Relationship_0_2', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Subclass_1_1', 'node_Subclass_0_2', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Weak Entity', 'path_Weak Entity_Entity'])
+Similarity score: 0.6010829247756458
+======= Processing 234-5-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Relationship_0_2', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Weak Entity_1_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.793051585718144
+======= Processing 236-2-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Relationship_1_1', 'node_Relationship_0_2', 'node_Subclass_1_2', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Entity', 'path_Weak Entity_Entity'])
+Similarity score: 0.7983920607777245
+======= Processing 237-4-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Entity_2_0', 'node_Entity_3_0', 'node_Entity_5_0', 'node_Relationship_0_2', 'node_Weak Entity_4_1', 'node_Relationship_1_1', 'node_Subclass_0_2', 'node_Weak Entity_1_0', 'node_Weak Entity_2_1', 'node_Weak Entity_1_1', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Subclass_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.7254236011567794
+======= Processing 239-5-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_1_2', 'node_Subclass_1_1', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5952291104443191
+======= Processing 24-4-48.xml ==========
+dict_keys(['node_Relationship_2_0', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Entity_3_0', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Entity_2_1', 'node_Text_0_0', 'node_Weak Entity_0_1', 'node_Weak Entity_0_3', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.568896005094969
+======= Processing 241-2-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_1_2', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Relationship_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.5542577927017911
+======= Processing 243-2-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_2_0', 'node_Entity_0_3', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Subclass_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.6151477128262673
+======= Processing 245-5-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Unknown_0_0', 'node_Subclass_0_2', 'node_Entity_2_1', 'node_Relationship_2_0', 'node_Entity_0_1', 'node_Weak Entity_2_1', 'node_Weak Entity_0_2', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'node_Relationship_1_1', 'node_Subclass_1_1', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Weak Entity_Entity', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.541381541295208
+======= Processing 246-5-48.xml ==========
+dict_keys(['node_Entity_4_1', 'node_Entity_0_1', 'node_Entity_1_0', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Entity_1_2', 'node_Entity_1_1', 'node_Weak Entity_0_2', 'node_Relationship_0_0', 'node_Weak Entity_2_1', 'path_Entity_Subclass', 'path_Entity_Entity', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Entity_Weak Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Entity'])
+Similarity score: 0.47879565893903836
+======= Processing 247-2-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Entity_1_2', 'node_Subclass_1_1', 'node_Relationship_3_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity'])
+Similarity score: 0.5234140465739751
+======= Processing 248-3-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Subclass_1_2', 'node_Relationship_1_1', 'node_Entity_0_0', 'node_Entity_1_2', 'node_Relationship_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.6005916431857796
+======= Processing 25-4-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_0_1', 'node_Entity_1_2', 'node_Relationship_1_1', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Weak Entity_2_1', 'node_Relationship_2_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.20102099791091477
+======= Processing 250-7-48.xml ==========
+dict_keys(['node_Entity_0_0', 'node_Entity_2_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Relationship_2_1', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.2559169177591735
+======= Processing 251-3-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Subclass_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Weak Entity_0_2', 'path_Subclass_Entity', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.35020209798623747
+======= Processing 252-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Relationship_0_2', 'node_Weak Entity_1_1', 'node_Weak Entity_0_2', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Entity_Weak Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.7343760454294713
+======= Processing 253-4-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Entity_2_0', 'node_Entity_2_2', 'node_Entity_0_0', 'node_Subclass_1_1', 'node_Entity_1_2', 'node_Entity_0_1', 'node_Subclass_0_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity'])
+Similarity score: 0.14544059712214133
+======= Processing 254-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Subclass_0_2', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_2_0', 'node_Weak Entity_2_1', 'node_Relationship_0_2', 'node_Relationship_2_0', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.6167900884123125
+======= Processing 257-8-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Subclass_1_1', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Weak Entity_0_2', 'node_Weak Entity_0_1', 'node_Relationship_1_1', 'node_Weak Entity_2_0', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.20583992842432336
+======= Processing 258-2-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Subclass_2_1', 'node_Weak Entity_1_1', 'node_Relationship_0_2', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4391974725697793
+======= Processing 26-3-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Entity_3_0', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Relationship_2_2', 'node_Subclass_0_2', 'node_Relationship_0_2', 'node_Weak Entity_2_2', 'node_Weak Entity_2_0', 'node_Weak Entity_3_0', 'path_Entity_Relationship', 'path_Entity_Weak Entity', 'path_Relationship_Weak Entity', 'path_Relationship_Relationship', 'path_Subclass_Weak Entity', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Weak Entity'])
+Similarity score: 0.5353098203597474
+======= Processing 261-6-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Unknown_0_0', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Weak Entity_1_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.06433489845793817
+======= Processing 262-10-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_0_0', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Weak Entity_0_1', 'node_Weak Entity_0_2', 'node_Relationship_1_1', 'node_Subclass_1_1', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.5868581734314265
+======= Processing 264-3-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Relationship_0_2', 'node_Entity_2_0', 'node_Subclass_2_1', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_1_2', 'node_Relationship_2_0', 'node_Relationship_1_2', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Relationship'])
+Similarity score: 0.7040680615781949
+======= Processing 268-2-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_3_1', 'node_Relationship_2_0', 'node_Entity_0_3', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Subclass_0_0', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Entity_3_0', 'node_Entity_2_1', 'node_Weak Entity_0_0', 'node_Relationship_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Entity_Entity', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.5826455263811243
+======= Processing 269-6-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_2', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.22973334818431848
+======= Processing 27-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_0', 'node_Relationship_1_0', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Relationship_0_2', 'node_Weak Entity_2_0', 'node_Weak Entity_4_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Weak Entity_Weak Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.6222504428368918
+======= Processing 270-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Subclass_0_2', 'node_Entity_0_3', 'node_Entity_0_2', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.2492447840828453
+======= Processing 271-6-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Entity_0_2', 'node_Entity_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_3_0', 'node_Relationship_1_1', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.35044253886453636
+======= Processing 273-4-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_2_1', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Relationship_2_1', 'node_Entity_2_0', 'node_Entity_0_1', 'node_Unknown_0_0', 'node_Weak Entity_2_1', 'node_Weak Entity_0_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Weak Entity', 'path_Weak Entity_Entity', 'path_Weak Entity_Weak Entity'])
+Similarity score: 0.5057118175095033
+======= Processing 274-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_2', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Relationship_0_2', 'node_Relationship_2_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Relationship'])
+Similarity score: 0.7093269021319086
+======= Processing 276-2-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Subclass_2_0', 'node_Entity_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Weak Entity_0_2', 'node_Entity_1_0', 'path_Entity_Subclass', 'path_Weak Entity_Entity', 'path_Entity_Weak Entity', 'path_Weak Entity_Weak Entity'])
+Similarity score: 0.057145448831959454
+======= Processing 277-7-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Relationship_0_2', 'node_Subclass_2_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_4', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Relationship_0_0', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Entity_Weak Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Entity', 'path_Weak Entity_Weak Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5245543181639081
+======= Processing 278-1-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Relationship_0_2', 'node_Weak Entity_3_0', 'node_Weak Entity_2_0', 'node_Subclass_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.6556179570911533
+======= Processing 279-5-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_1_2', 'node_Entity_2_0', 'node_Relationship_1_1', 'node_Entity_1_0', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5227957190733314
+======= Processing 280-5-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Entity_2_2', 'node_Entity_0_3', 'node_Relationship_2_0', 'node_Entity_1_2', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Unknown_0_0', 'node_Weak Entity_1_1', 'node_Weak Entity_4_0', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.4120816918460671
+======= Processing 281-4-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_1_0', 'node_Entity_3_0', 'node_Subclass_0_2', 'node_Weak Entity_1_0', 'node_Weak Entity_1_1', 'node_Weak Entity_0_0', 'node_Relationship_0_2', 'node_Unknown_0_0', 'path_Subclass_Entity', 'path_Weak Entity_Entity', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.5067934713880098
+======= Processing 282-3-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_2_1', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Weak Entity_0_2', 'node_Relationship_2_0', 'node_Weak Entity_0_3', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'node_Weak Entity_0_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.21870492395084357
+======= Processing 283-5-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Relationship_1_1', 'node_Weak Entity_0_2', 'node_Entity_1_1', 'node_Relationship_0_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Subclass_0_2', 'node_Subclass_1_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity'])
+Similarity score: 0.6435634802102161
+======= Processing 284-2-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_0_1', 'node_Entity_2_0', 'node_Subclass_1_1', 'node_Unknown_0_0', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.20061530426246488
+======= Processing 285-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Entity_0_3', 'node_Weak Entity_4_0', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Relationship_2_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Entity_Weak Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.23791547571544322
+======= Processing 286-2-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Subclass_1_1', 'node_Entity_2_1', 'node_Relationship_0_3', 'node_Relationship_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.808912617432507
+======= Processing 287-5-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_1_2', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_2_1', 'node_Weak Entity_0_2', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Relationship_0_0', 'node_Relationship_0_1', 'node_Subclass_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.4613607846197005
+======= Processing 288-1-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.6376804093660593
+======= Processing 292-4-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Entity_0_3', 'node_Entity_0_2', 'node_Subclass_0_3', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_2_1', 'node_Weak Entity_4_0', 'path_Entity_Weak Entity', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Entity', 'path_Weak Entity_Weak Entity'])
+Similarity score: 0.22678251786191683
+======= Processing 293-3-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Entity_3_0', 'node_Entity_1_2', 'node_Entity_1_1', 'node_Relationship_0_2', 'node_Subclass_1_1', 'node_Entity_0_0', 'node_Weak Entity_1_1', 'node_Weak Entity_0_2', 'node_Relationship_2_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Subclass', 'path_Weak Entity_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.44555962543696015
+======= Processing 294-2-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Relationship_Entity'])
+Similarity score: 0.16911475804987608
+======= Processing 295-3-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Unknown_0_0', 'node_Relationship_2_0', 'node_Relationship_0_2', 'node_Subclass_2_1', 'node_Weak Entity_1_1', 'node_Weak Entity_0_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Entity', 'path_Weak Entity_Subclass', 'path_Weak Entity_Relationship'])
+Similarity score: 0.06135350070973702
+======= Processing 296-4-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Unknown_0_0', 'node_Subclass_1_2', 'node_Weak Entity_1_2', 'node_Relationship_0_2', 'node_Relationship_0_0', 'node_Relationship_2_0', 'node_Weak Entity_2_0', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5079595451729729
+======= Processing 297-1-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Entity_Subclass'])
+Similarity score: 0.7932167875917658
+======= Processing 299-3-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Unknown_0_0', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_0_3', 'node_Weak Entity_0_3', 'node_Entity_0_2', 'node_Subclass_1_2', 'node_Weak Entity_0_2', 'node_Relationship_3_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Relationship'])
+Similarity score: 0.059389031336856905
+======= Processing 300-2-48.xml ==========
+dict_keys(['node_Entity_0_0', 'node_Entity_1_0', 'node_Entity_0_1', 'node_Weak Entity_0_1', 'node_Weak Entity_1_0', 'node_Relationship_1_1', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Weak Entity_Entity', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.3893805987383738
+======= Processing 303-5-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_0_3', 'node_Unknown_0_0', 'node_Relationship_2_0', 'node_Relationship_1_1', 'node_Subclass_0_2', 'node_Weak Entity_0_3', 'node_Weak Entity_2_2', 'path_Entity_Relationship', 'path_Entity_Weak Entity', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.1309475648657674
+======= Processing 306-1-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_3', 'node_Entity_0_2', 'node_Weak Entity_2_0', 'node_Weak Entity_3_0', 'node_Relationship_2_0', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.23939782946951918
+======= Processing 307-3-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_0_0', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_3', 'node_Relationship_0_2', 'node_Weak Entity_1_2', 'node_Relationship_3_0', 'node_Weak Entity_0_2', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Weak Entity_Weak Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.23597327607707927
+======= Processing 308-5-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Weak Entity_2_0', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Subclass_0_2', 'node_Weak Entity_0_2', 'node_Unknown_0_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Subclass_Entity'])
+Similarity score: 0.23574268613295327
+======= Processing 309-8-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Relationship_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.163016997853468
+======= Processing 310-2-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Subclass_2_0', 'node_Subclass_1_1', 'node_Unknown_0_0', 'node_Relationship_0_2', 'node_Weak Entity_1_1', 'node_Text_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.2836140712484645
+======= Processing 311-11-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_2_0', 'node_Subclass_2_0', 'node_Entity_0_2', 'node_Weak Entity_2_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_0_1', 'node_Relationship_1_1', 'node_Weak Entity_0_2', 'node_Unknown_0_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Entity_Weak Entity', 'path_Weak Entity_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.1437105709399904
+======= Processing 312-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_2', 'node_Relationship_1_1', 'node_Subclass_0_2', 'node_Weak Entity_4_0', 'node_Weak Entity_2_1', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.3611862378054107
+======= Processing 314-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Entity_0_2', 'node_Weak Entity_1_1', 'node_Weak Entity_0_2', 'node_Relationship_2_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Entity_Weak Entity', 'path_Weak Entity_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.33646329245522655
+======= Processing 315-3-48.xml ==========
+dict_keys(['node_Entity_0_0', 'node_Subclass_1_1', 'node_Entity_2_0', 'node_Entity_1_2', 'node_Entity_2_1', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_0_2', 'node_Relationship_1_1', 'node_Relationship_1_2', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity'])
+Similarity score: 0.8446557856466829
+======= Processing 317-6-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Subclass_2_1', 'node_Entity_0_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Entity', 'path_Weak Entity_Weak Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.45506810098065836
+======= Processing 318-5-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Entity_2_0', 'node_Entity_2_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_0_2', 'node_Weak Entity_2_2', 'node_Weak Entity_1_2', 'node_Relationship_0_2', 'node_Relationship_2_0', 'node_Relationship_2_2', 'node_Subclass_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Relationship', 'path_Subclass_Entity'])
+Similarity score: 0.44924037135020883
+======= Processing 319-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_2', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Entity_1_2', 'node_Relationship_2_0', 'node_Relationship_3_0', 'node_Weak Entity_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Subclass_Weak Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.38072769654418764
+======= Processing 32-1-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Text_0_0', 'node_Entity_1_2', 'node_Relationship_1_1', 'node_Relationship_0_2', 'node_Weak Entity_3_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4462992699068565
+======= Processing 320-3-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_0_2', 'node_Subclass_1_2', 'node_Relationship_1_1', 'node_Entity_2_1', 'node_Entity_2_0', 'node_Relationship_1_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.8102771648939588
+======= Processing 321-5-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Subclass_2_1', 'node_Entity_0_2', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity'])
+Similarity score: 0.5748691650190078
+======= Processing 322-3-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_2_1', 'node_Relationship_2_0', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Weak Entity_0_3', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'node_Relationship_2_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Relationship_Relationship'])
+Similarity score: 0.2095490543404029
+======= Processing 323-5-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'node_Weak Entity_0_3', 'node_Unknown_0_0', 'node_Relationship_2_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.1349852742293029
+======= Processing 324-5-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_1_0', 'node_Weak Entity_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.4100366087914892
+======= Processing 325-5-48.xml ==========
+dict_keys(['node_Relationship_1_1', 'node_Entity_0_1', 'node_Entity_2_0', 'node_Subclass_0_1', 'node_Entity_1_1', 'node_Subclass_0_2', 'node_Entity_3_0', 'node_Text_0_1', 'node_Text_0_0', 'node_Entity_1_2', 'node_Relationship_2_1', 'node_Weak Entity_0_2', 'node_Relationship_2_0', 'node_Relationship_0_2', 'node_Weak Entity_1_1', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Text_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5512572654369314
+======= Processing 326-7-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_2_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_2_1', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_0_2', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.39909946897267284
+======= Processing 328-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_2_0', 'node_Entity_1_0', 'node_Subclass_1_1', 'node_Subclass_2_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Relationship_0_2', 'node_Weak Entity_2_1', 'node_Weak Entity_2_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.606119015745411
+======= Processing 329-8-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Weak Entity_2_1', 'node_Entity_2_1', 'node_Relationship_1_1', 'node_Weak Entity_0_2', 'path_Entity_Relationship', 'path_Subclass_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Subclass'])
+Similarity score: 0.5143090394876351
+======= Processing 330-5-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Subclass_0_2', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Unknown_0_0', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.21517819425809953
+======= Processing 331-3-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Relationship_0_2', 'node_Entity_1_2', 'node_Subclass_2_0', 'node_Subclass_1_1', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_0_2', 'node_Entity_0_1', 'node_Relationship_1_0', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Entity_Relationship', 'path_Weak Entity_Relationship'])
+Similarity score: 0.6482593132545567
+======= Processing 332-6-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Entity_2_1', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Unknown_0_0', 'node_Entity_0_1', 'node_Relationship_0_2', 'node_Weak Entity_1_1', 'node_Weak Entity_0_2', 'path_Entity_Subclass', 'path_Entity_Weak Entity', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Weak Entity_Entity'])
+Similarity score: 0.6868028197434451
+======= Processing 333-4-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Entity_0_1', 'node_Subclass_3_0', 'node_Unknown_0_0', 'node_Entity_1_1', 'node_Entity_1_2', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_1', 'node_Weak Entity_2_0', 'node_Relationship_0_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.3651357067594478
+======= Processing 335-3-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Subclass_2_1', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4311317128199712
+======= Processing 336-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_3', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.1700684729879785
+======= Processing 338-8-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_0_2', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'node_Subclass_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.15661513939205385
+======= Processing 339-6-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.15661513939205385
+======= Processing 34-6-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Unknown_0_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_0_3', 'node_Entity_0_2', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Weak Entity_4_0', 'node_Entity_1_1', 'node_Subclass_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.0780068210196324
+======= Processing 341-5-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Weak Entity_3_0', 'node_Weak Entity_1_1', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.4976790040584569
+======= Processing 342-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Weak Entity_0_2', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.1578339526330554
+======= Processing 343-6-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_2_0', 'node_Entity_1_0', 'node_Entity_1_2', 'node_Subclass_1_1', 'node_Weak Entity_0_3', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_0_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5832030402557261
+======= Processing 346-1-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Subclass_2_1', 'node_Entity_0_2', 'node_Entity_1_2', 'node_Relationship_3_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Entity_Subclass'])
+Similarity score: 0.5053526933457507
+======= Processing 35-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Relationship_0_2', 'node_Subclass_0_1', 'node_Text_0_1', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Relationship_1_2', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Text_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.7265509579581184
+======= Processing 350-7-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Relationship_2_0', 'node_Entity_1_1', 'node_Weak Entity_0_3', 'node_Relationship_1_1', 'node_Relationship_3_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity'])
+Similarity score: 0.2462210524733845
+======= Processing 351-10-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Subclass_2_0', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Relationship_1_2', 'node_Weak Entity_3_1', 'node_Relationship_0_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Weak Entity_Weak Entity'])
+Similarity score: 0.2907855814299862
+======= Processing 352-5-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Unknown_0_0', 'node_Entity_0_0', 'node_Entity_2_0', 'node_Entity_0_1', 'node_Weak Entity_0_2', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Relationship_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.10774541087074542
+======= Processing 353-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Entity_1_2', 'node_Weak Entity_0_1', 'node_Weak Entity_1_0', 'node_Weak Entity_2_1', 'node_Weak Entity_3_0', 'path_Entity_Subclass', 'path_Entity_Weak Entity', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Entity'])
+Similarity score: 0.15103137396672062
+======= Processing 355-3-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_0_1', 'node_Entity_2_0', 'node_Entity_1_0', 'node_Relationship_1_0', 'node_Relationship_1_1', 'node_Subclass_1_2', 'node_Weak Entity_1_1', 'node_Relationship_0_0', 'node_Weak Entity_0_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Entity_Weak Entity', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Weak Entity_Entity'])
+Similarity score: 0.5471698113207547
+======= Processing 359-11-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_2_0', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_0_1', 'node_Relationship_2_0', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Relationship_0_2', 'node_Weak Entity_2_1', 'node_Relationship_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.5299803830143921
+======= Processing 36-1-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_3_2', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Entity_2_2', 'node_Entity_2_3', 'node_Entity_2_0', 'node_Entity_0_3', 'path_Entity_Entity', 'path_Subclass_Entity', 'path_Entity_Subclass'])
+Similarity score: 0.029841607055590462
+======= Processing 360-8-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Subclass_0_2', 'node_Relationship_1_1', 'node_Weak Entity_2_1', 'node_Unknown_0_0', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.17603257451678295
+======= Processing 362-2-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_0', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Weak Entity_1_1', 'node_Unknown_1_0', 'node_Unknown_2_1', 'node_Weak Entity_2_2', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'node_Relationship_1_2', 'node_Relationship_0_2', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Subclass_2_0', 'node_Unknown_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Unknown_Unknown', 'path_Weak Entity_Unknown', 'path_Relationship_Unknown', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Unknown_Relationship', 'path_Unknown_Entity'])
+Similarity score: 0.4444872782133014
+======= Processing 363-5-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Relationship_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_2_0', 'node_Entity_2_1', 'node_Subclass_1_1', 'node_Weak Entity_0_2', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_0_3', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5550904254278796
+======= Processing 364-6-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_3', 'node_Entity_1_1', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Unknown_0_0', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_0_3', 'node_Weak Entity_1_3', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.2483552802073479
+======= Processing 365-2-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Weak Entity_3_0', 'node_Unknown_0_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.30081814952957087
+======= Processing 366-7-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_1_0', 'node_Subclass_1_1', 'node_Weak Entity_0_2', 'node_Relationship_1_0', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4100366087914892
+======= Processing 367-6-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Entity_1_2', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.23343214439690146
+======= Processing 368-2-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_0', 'node_Relationship_0_2', 'node_Entity_1_1', 'node_Entity_0_3', 'node_Entity_0_2', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'node_Unknown_0_0', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.5455107466591698
+======= Processing 369-8-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Relationship_1_1', 'node_Entity_1_0', 'node_Entity_0_3', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Weak Entity_3_0', 'node_Relationship_0_2', 'node_Weak Entity_2_0', 'node_Unknown_0_0', 'node_Relationship_2_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.3560866896856936
+======= Processing 370-7-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Subclass_0_2', 'node_Weak Entity_2_1', 'node_Weak Entity_1_1', 'node_Unknown_0_0', 'node_Relationship_2_0', 'node_Weak Entity_2_0', 'node_Relationship_1_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Weak Entity', 'path_Subclass_Entity', 'path_Subclass_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.19735133805428284
+======= Processing 371-7-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_0_3', 'node_Subclass_1_1', 'node_Entity_1_0', 'node_Weak Entity_0_1', 'node_Entity_0_0', 'node_Relationship_0_0', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_3_0', 'node_Unknown_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Entity', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.3561505160830617
+======= Processing 373-3-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Relationship_0_1', 'node_Entity_0_2', 'node_Unknown_0_0', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Entity_0_0', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.21588280669851348
+======= Processing 374-4-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Weak Entity_2_1', 'node_Entity_1_0', 'node_Subclass_0_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4577980997613882
+======= Processing 375-4-48.xml ==========
+dict_keys(['node_Entity_1_0', 'node_Entity_3_0', 'node_Entity_2_0', 'node_Entity_1_2', 'node_Entity_2_1', 'node_Relationship_0_2', 'node_Relationship_1_1', 'node_Subclass_0_3', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.8559258787813351
+======= Processing 377-6-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Unknown_0_0', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Subclass_2_1', 'node_Relationship_2_0', 'node_Relationship_1_0', 'node_Relationship_1_1', 'node_Weak Entity_0_2', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity'])
+Similarity score: 0.08593956947351135
+======= Processing 378-7-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Relationship_2_0', 'node_Unknown_0_0', 'node_Entity_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_0_3', 'node_Weak Entity_0_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.07714937890274594
+======= Processing 38-7-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_2_0', 'node_Entity_0_0', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Weak Entity_2_0', 'node_Relationship_0_0', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Entity_Weak Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.358020718828878
+======= Processing 382-4-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_2_1', 'node_Subclass_0_3', 'node_Relationship_0_2', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_0', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.6740938478604225
+======= Processing 383-5-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Weak Entity_2_0', 'node_Subclass_0_2', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.19129123994352418
+======= Processing 385-4-48.xml ==========
+dict_keys(['node_Entity_0_2', 'node_Subclass_1_2', 'node_Entity_1_1', 'node_Relationship_2_0', 'node_Unknown_0_0', 'node_Entity_0_1', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Weak Entity_Entity'])
+Similarity score: 0.12285902336679023
+======= Processing 386-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Relationship_0_2', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Weak Entity_2_0', 'node_Weak Entity_3_0', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Entity_Entity', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.6796261896779193
+======= Processing 387-1-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_0', 'node_Entity_0_2', 'node_Entity_1_2', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Relationship_3_0', 'node_Subclass_1_1', 'node_Relationship_0_2', 'node_Text_0_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.6163243593038118
+======= Processing 39-6-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Weak Entity_0_2', 'node_Weak Entity_1_2', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.20120839493713366
+======= Processing 393-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Relationship_0_2', 'node_Subclass_0_2', 'node_Relationship_0_1', 'node_Weak Entity_0_2', 'node_Relationship_1_1', 'node_Relationship_0_0', 'node_Weak Entity_0_3', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.6359883112726771
+======= Processing 394-5-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Entity_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'node_Relationship_0_0', 'node_Subclass_1_2', 'node_Entity_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.43573605221858547
+======= Processing 40-4-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_0_3', 'node_Weak Entity_2_2', 'node_Relationship_1_1', 'node_Subclass_2_0', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.19345500590998355
+======= Processing 41-4-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_0', 'node_Subclass_1_1', 'node_Relationship_2_0', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_2', 'node_Relationship_1_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Relationship'])
+Similarity score: 0.1317841678479201
+======= Processing 42-6-48.xml ==========
+dict_keys(['node_Entity_2_3', 'node_Entity_0_3', 'node_Entity_1_0', 'node_Relationship_2_0', 'node_Entity_2_0', 'node_Relationship_1_1', 'node_Relationship_2_1', 'node_Subclass_0_2', 'node_Subclass_1_1', 'node_Entity_0_1', 'node_Weak Entity_1_0', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4600119894947903
+======= Processing 44-4-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Entity_0_2', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Relationship_1_0', 'node_Subclass_1_2', 'node_Unknown_0_0', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.23054084926172017
+======= Processing 45-1-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_1_0', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Subclass_2_0', 'node_Subclass_1_1', 'node_Entity_2_1', 'node_Entity_2_0', 'node_Relationship_1_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.7009730907699123
+======= Processing 46-6-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Entity_0_2', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Relationship_1_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.23902464478515836
+======= Processing 48-4-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_2_1', 'node_Relationship_0_2', 'node_Subclass_1_1', 'node_Entity_0_0', 'node_Relationship_0_0', 'node_Relationship_1_1', 'node_Relationship_0_1', 'node_Relationship_1_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.7425433283772888
+======= Processing 51-4-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_2', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Text_0_0', 'node_Subclass_2_0', 'node_Text_1_0', 'node_Text_0_1', 'node_Relationship_1_2', 'node_Weak Entity_1_1', 'node_Weak Entity_0_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Text_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Text'])
+Similarity score: 0.38895558795273394
+======= Processing 54-6-48.xml ==========
+dict_keys(['node_Entity_4_0', 'node_Entity_0_1', 'node_Entity_1_2', 'node_Relationship_1_1', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_3', 'node_Weak Entity_0_3', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.2843399585412693
+======= Processing 55-5-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Subclass_0_3', 'node_Unknown_0_0', 'node_Weak Entity_2_1', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.2424476062981644
+======= Processing 56-2-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_2', 'node_Entity_2_0', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Relationship_2_2', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4633303922806073
+======= Processing 58-2-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'node_Weak Entity_1_1', 'node_Relationship_3_0', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.2641509433962264
+======= Processing 59-3-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Subclass_0_2', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'node_Relationship_2_1', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Relationship'])
+Similarity score: 0.24660771253430339
+======= Processing 60-7-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Unknown_0_0', 'node_Entity_2_0', 'node_Entity_0_2', 'node_Subclass_2_0', 'node_Subclass_1_1', 'node_Entity_2_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_2_1', 'node_Relationship_0_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.4680486795941483
+======= Processing 61-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_0', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Relationship_0_0', 'node_Subclass_1_1', 'node_Weak Entity_0_3', 'node_Relationship_1_1', 'node_Weak Entity_2_1', 'node_Relationship_2_0', 'path_Entity_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.28549857085853186
+======= Processing 62-5-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_1_2', 'node_Subclass_0_2', 'node_Weak Entity_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_3_0', 'node_Entity_2_1', 'path_Entity_Weak Entity', 'path_Subclass_Entity', 'path_Weak Entity_Entity'])
+Similarity score: 0.07199649817549104
+======= Processing 63-6-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_2', 'node_Relationship_2_0', 'node_Entity_1_1', 'node_Subclass_1_1', 'node_Relationship_2_1', 'node_Weak Entity_2_2', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Weak Entity_Weak Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.3554872929450092
+======= Processing 64-5-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Weak Entity_0_2', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'node_Weak Entity_0_3', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.19129123994352418
+======= Processing 65-4-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Subclass_1_1', 'node_Entity_3_0', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Entity_2_1', 'node_Relationship_0_3', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Entity', 'path_Entity_Relationship'])
+Similarity score: 0.7108964593900089
+======= Processing 66-7-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_1_2', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Subclass_2_1', 'node_Weak Entity_0_1', 'node_Relationship_3_1', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4311317128199712
+======= Processing 68-6-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Relationship_0_2', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Entity_3_0', 'node_Subclass_2_1', 'node_Weak Entity_2_0', 'node_Weak Entity_3_0', 'path_Relationship_Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.6370180641404498
+======= Processing 69-4-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_1_0', 'node_Entity_1_2', 'node_Relationship_2_0', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Relationship_0_1', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.3541915101369188
+======= Processing 71-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Unknown_0_0', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'node_Subclass_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.13346853761208058
+======= Processing 72-10-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Relationship_2_0', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'node_Weak Entity_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.1416142169710403
+======= Processing 75-7-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Subclass_1_1', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'node_Relationship_2_0', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Entity'])
+Similarity score: 0.2382456847233716
+======= Processing 76-1-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Subclass_2_0', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Weak Entity_1_1', 'node_Relationship_2_0', 'node_Weak Entity_2_0', 'node_Unknown_0_0', 'node_Text_0_0', 'node_Relationship_2_1', 'node_Relationship_0_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Relationship'])
+Similarity score: 0.28132539651815747
+======= Processing 77-4-48.xml ==========
+dict_keys(['node_Entity_1_3', 'node_Entity_0_1', 'node_Entity_1_0', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_1_0', 'node_Weak Entity_2_1', 'node_Relationship_2_0', 'node_Subclass_1_1', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Weak Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.29491040563111004
+======= Processing 78-7-48.xml ==========
+dict_keys(['node_Entity_0_1', 'node_Entity_0_2', 'node_Weak Entity_1_2', 'node_Relationship_1_1', 'node_Relationship_2_0', 'node_Unknown_0_0', 'node_Entity_2_1', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity'])
+Similarity score: 0.13346853761208058
+======= Processing 79-7-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Weak Entity_0_2', 'node_Unknown_0_0', 'node_Weak Entity_0_3', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.0816523798841327
+======= Processing 8-18-48.xml ==========
+dict_keys(['node_Entity_0_0', 'node_Weak Entity_0_0'])
+Similarity score: 0.0
+======= Processing 80-6-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Relationship_2_0', 'node_Entity_0_3', 'node_Weak Entity_0_4', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Weak Entity_0_3', 'node_Weak Entity_0_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Subclass_Entity'])
+Similarity score: 0.08997672803778127
+======= Processing 81-7-48.xml ==========
+dict_keys(['node_Entity_1_2', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_1_1', 'node_Entity_0_2', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Relationship_0_0', 'node_Weak Entity_1_1', 'node_Weak Entity_1_2', 'node_Weak Entity_0_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Weak Entity', 'path_Relationship_Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.22203617017115182
+======= Processing 82-4-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Entity_0_3', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'node_Weak Entity_0_2', 'node_Weak Entity_2_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.15943919342622986
+======= Processing 84-3-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_2_0', 'node_Entity_1_0', 'node_Entity_1_1', 'node_Relationship_1_1', 'node_Relationship_1_2', 'node_Relationship_0_2', 'node_Subclass_0_2', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.8449288964361521
+======= Processing 85-4-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_2_1', 'node_Relationship_2_0', 'node_Relationship_0_2', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_0_1', 'node_Subclass_1_1', 'node_Subclass_0_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Subclass_Entity'])
+Similarity score: 0.691593729578611
+======= Processing 86-4-48.xml ==========
+dict_keys(['node_Entity_1_1', 'node_Entity_0_1', 'node_Entity_0_2', 'node_Weak Entity_0_2', 'node_Weak Entity_2_1', 'node_Weak Entity_2_0', 'node_Relationship_2_0', 'node_Subclass_2_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.14923249360698765
+======= Processing 87-6-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_2', 'node_Entity_1_1', 'node_Weak Entity_0_2', 'node_Entity_1_0', 'node_Relationship_2_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Subclass_1_1', 'node_Weak Entity_1_1', 'node_Relationship_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.38070981822732475
+======= Processing 88-1-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Entity_2_3', 'node_Entity_1_0', 'node_Entity_0_1', 'node_Entity_0_3', 'node_Subclass_1_1', 'node_Entity_0_0', 'node_Relationship_1_1', 'path_Entity_Entity', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Entity'])
+Similarity score: 0.20736758755125537
+======= Processing 89-6-48.xml ==========
+dict_keys(['node_Entity_0_3', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Entity_2_0', 'node_Subclass_1_1', 'node_Entity_1_1', 'node_Unknown_0_0', 'node_Weak Entity_3_0', 'node_Relationship_1_1', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.3960411904258178
+======= Processing 90-5-48.xml ==========
+dict_keys(['node_Entity_0_0', 'node_Entity_1_0', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Entity_2_1', 'node_Relationship_0_1', 'node_Subclass_2_1', 'node_Weak Entity_1_1', 'node_Entity_0_2', 'node_Entity_0_1', 'path_Relationship_Entity', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity'])
+Similarity score: 0.4989530574158785
+======= Processing 95-3-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_0_1', 'node_Relationship_2_0', 'node_Unknown_0_0', 'node_Subclass_1_1', 'node_Entity_0_2', 'node_Weak Entity_1_1', 'node_Weak Entity_2_0', 'node_Relationship_1_1', 'node_Entity_1_1', 'node_Weak Entity_1_2', 'node_Relationship_0_2', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Entity_Subclass', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.22802371569971328
+======= Processing 96-2-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_0_0', 'node_Entity_0_2', 'node_Entity_1_2', 'node_Relationship_2_0', 'node_Relationship_1_1', 'node_Weak Entity_1_2', 'node_Subclass_1_1', 'path_Entity_Relationship', 'path_Entity_Subclass', 'path_Relationship_Entity', 'path_Weak Entity_Relationship', 'path_Subclass_Entity', 'path_Relationship_Weak Entity'])
+Similarity score: 0.26107542465442923
+======= Processing 97-5-48.xml ==========
+dict_keys(['node_Entity_3_0', 'node_Entity_2_0', 'node_Entity_1_1', 'node_Entity_0_1', 'node_Subclass_0_2', 'node_Entity_1_0', 'node_Weak Entity_2_1', 'node_Relationship_1_1', 'node_Relationship_0_2', 'node_Relationship_2_0', 'node_Unknown_0_0', 'path_Entity_Relationship', 'path_Subclass_Entity', 'path_Weak Entity_Relationship', 'path_Relationship_Weak Entity', 'path_Relationship_Entity'])
+Similarity score: 0.7137464271463296
+======= Processing 98-8-48.xml ==========
+dict_keys(['node_Entity_2_0', 'node_Entity_0_2', 'node_Subclass_2_1', 'node_Entity_0_1', 'node_Entity_0_0', 'node_Relationship_0_0', 'node_Weak Entity_1_0', 'node_Weak Entity_1_1', 'node_Weak Entity_2_0', 'path_Entity_Weak Entity', 'path_Entity_Subclass', 'path_Subclass_Entity', 'path_Entity_Entity', 'path_Weak Entity_Weak Entity'])
+Similarity score: 0.03090854171260908
+======= Processing 99-8-48.xml ==========
+dict_keys(['node_Entity_2_1', 'node_Entity_1_1', 'node_Entity_2_0', 'node_Entity_0_2', 'node_Entity_0_1', 'node_Relationship_1_1', 'node_Subclass_1_1', 'node_Relationship_2_1', 'node_Weak Entity_1_2', 'path_Entity_Subclass', 'path_Entity_Relationship', 'path_Relationship_Entity', 'path_Relationship_Weak Entity', 'path_Subclass_Entity', 'path_Weak Entity_Relationship'])
+Similarity score: 0.5385611336789742
