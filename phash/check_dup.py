@@ -1,9 +1,8 @@
-import os
 import json
 from PIL import Image
 from utils import *
 
-image_path = "data/plagiarised/7178/71-4-48.png"
+image_path = "data/plagiarised/1459/14-7-48.png"
 img = Image.open(image_path)
 
 index_path = "phash/faiss_index"
@@ -13,7 +12,7 @@ with open("phash/index_metadata.json", "r") as f:
     image_filenames = json.load(f)
 
 img_hash = hash_image(img)
-D, I = check_duplicate(index, img_hash, 100)
+D, I = check_duplicate(index, img_hash, 200)
 
 print(D)
 print("***")
