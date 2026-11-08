@@ -1,3 +1,9 @@
+"""
+    Get the graphical representation of each file in the submissions folder. 
+    Also plots it.
+"""
+
+
 import os
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -6,7 +12,9 @@ from xml_to_graph import parse_drawio_xml, merge_attributes_into_dictionary
 
 INPUT_PATH = "data/submissions"
 
-for file in os.listdir(INPUT_PATH)[:2]:
+for file in os.listdir(INPUT_PATH):
+    if file != "26-3-48.xml":
+        continue
     nodes, edges = parse_drawio_xml(os.path.join(INPUT_PATH, file))
     print(f"Extracted {len(nodes)} nodes and {len(edges)} connections.")
 

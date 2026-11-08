@@ -1,3 +1,8 @@
+"""
+    For a given file in "target_file", return the similarity scores of all
+    other xml comparisons.
+"""
+
 import networkx as nx
 from xml_to_graph import parse_drawio_xml, merge_attributes_into_dictionary
 from vectoriser import convert_to_vector, compute_similarity
@@ -5,7 +10,7 @@ import os
 import re
 
 base_path = "data/submissions"
-target_file = "102-1-48.xml"
+target_file = "26-3-48.xml"
 output_log = "output.txt"
 
 def print_log(*args, sep=" ", end="\n", file_path=output_log):
@@ -40,7 +45,7 @@ G1.add_edges_from(edges)
 
 target_vector = convert_to_vector(G1)
 print(target_vector.keys())
-
+exit()
 
 # Taking only the last attempt of each user's submissions
 pattern = re.compile(r"^(\d+)-(\d+)-.*\.xml$")
