@@ -1,5 +1,7 @@
 # Custom stuff
 data/
+phash/faiss_index_256
+phash/index_metadata.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
