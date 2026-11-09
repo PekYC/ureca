@@ -14,9 +14,9 @@ for image in image_folder:
     full_path = os.path.join(base_path, image)
     with Image.open(full_path) as img:
         img_vector = extract_features(img)
-        img_vector_norm = faiss.normalize_L2(img_vector)
+        faiss.normalize_L2(img_vector)
 
-        index.add(img_vector_norm)
+        index.add(img_vector)
         image_filenames.append(image)
 
 

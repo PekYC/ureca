@@ -10,6 +10,7 @@ data_config = timm.data.resolve_model_data_config(model)
 transforms = timm.data.create_transform(**data_config, is_training=False)
 
 def extract_features(im: Image) -> np.ndarray:
+    im = im.convert("RGB")
     x = transforms(im).unsqueeze(0)
 
     with torch.inference_mode():
@@ -21,7 +22,7 @@ def extract_features(im: Image) -> np.ndarray:
 
 def load_index(filename: str = "faiss_index") -> IndexFlatIP:
     try:
-        return faiss.read_index(f"{filename}_2304")
+        return faiss.read_index(f"{filename}")
     except RuntimeError:
         return IndexFlatIP(2304)
 
