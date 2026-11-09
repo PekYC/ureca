@@ -1,6 +1,7 @@
 import os
 import json
 from PIL import Image
+import matplotlib.pyplot as plt
 from utils import *
 
 def load_gt(filepath: str) -> set[tuple[str, str]]:
@@ -68,10 +69,49 @@ def evaluate_threshold(data_path: str, index_file: str, gt_file: str, thresholds
 
     return results
 
-# plagiarised = find_plagiarised("data/union", "phash/faiss_index", 80)
 
-# for key, value in plagiarised.items():
-#     print(f"{key}: {value}")
+results = evaluate_threshold("data/union", "phash/faiss_index", "data/union/plagiarisms.txt", [x for x in range(60, 121, 10)])
+
+keys = sorted(results.keys())
+
+precision = []
+recall = []
+f1 = []
+
+for k in keys:
+    p = results[k]["Precision"]
+    r = results[k]["Recall"]
+
+    precision.append(p)
+    recall.append(r)
+
+    if p+r == 0:
+        f1.append(0.0)
+    else:
+        f1.append(2 * (p  *r)/(p+r))
+
+# Create the plot
+plt.figure(figsize=(10, 6))
+
+plt.plot(keys, precision, label='Precision', marker='o', color='#1f77b4', linewidth=2)
+plt.plot(keys, recall, label='Recall', marker='s', color='#ff7f0e', linewidth=2)
+plt.plot(keys, f1, label='F1 Score', marker='^', color='#2ca02c', linewidth=2)
+
+# Formatting the chart
+plt.title('Precision, Recall, and F1 Score by Parameter')
+plt.xlabel('Parameter Key')
+plt.ylabel('Score (0.0 to 1.0)')
+plt.xticks(keys) # Ensure all keys show up on the X-axis
+plt.ylim(-0.05, 1.05) # Add a little padding to the Y-axis
+plt.legend()
+plt.grid(True, linestyle='--', alpha=0.7)
+
+# Display the chart
+plt.show()
 
 
-evaluate_threshold("data/union", "phash/faiss_index", "data/union/plagiarisms.txt", [x for x in range(10, 101, 10)])
+
+print("Using '80' as threshold, identified plagiarisms:")
+plagiarised = find_plagiarised("data/union", "phash/faiss_index", 80)
+for k, v in plagiarised.items():
+    print(f"{k:^15} <---> {v[0]:^15}")
