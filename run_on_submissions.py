@@ -13,7 +13,7 @@ from xml_to_graph import parse_drawio_xml, merge_attributes_into_dictionary
 INPUT_PATH = "data/submissions"
 
 for file in os.listdir(INPUT_PATH):
-    if file != "26-3-48.xml":
+    if file != "51-4-48.xml":
         continue
     nodes, edges = parse_drawio_xml(os.path.join(INPUT_PATH, file))
     print(f"Extracted {len(nodes)} nodes and {len(edges)} connections.")

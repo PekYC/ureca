@@ -10,7 +10,7 @@ import os
 import re
 
 base_path = "data/submissions"
-target_file = "39-6-48.xml"
+target_file = "55-5-48.xml"
 threshold = 0.85
 passed = []
 
