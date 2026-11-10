@@ -3,7 +3,7 @@ import json
 from PIL import Image
 from utils import * 
 
-base_path = "data/union"
+base_path = "data/full_data_final"
 image_folder = os.listdir(base_path)
 image_folder = [x for x in image_folder if x.endswith(".png")]
 index_path = "vit/faiss_index"

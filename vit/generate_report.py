@@ -71,7 +71,7 @@ def evaluate_threshold(data_path: str, index_file: str, gt_file: str, thresholds
 
     return results
 
-results = evaluate_threshold("data/union", "vit/faiss_index", "data/union/plagiarisms.txt", np.round(np.arange(0.890, 0.941, 0.005), 3).tolist())
+results = evaluate_threshold("data/full_data_final", "vit/faiss_index", "data/full_data_final/plagiarisms.txt", np.round(np.arange(0.890, 0.941, 0.005), 3).tolist())
 
 keys = sorted(results.keys())
 
@@ -112,7 +112,7 @@ plt.savefig("benchmark_graphs/vit.png")
 plt.show()
 
 
-print("Using '0.925' as threshold, identified plagiarisms:")
-plagiarised = find_plagiarised("data/union", "vit/faiss_index", 0.925)
-for k, v in plagiarised.items():
-    print(f"{k:^15} <---> {v[0]:^15}")
+# print("Using '0.925' as threshold, identified plagiarisms:")
+# plagiarised = find_plagiarised("data/union", "vit/faiss_index", 0.925)
+# for k, v in plagiarised.items():
+#     print(f"{k:^15} <---> {v[0]:^15}")

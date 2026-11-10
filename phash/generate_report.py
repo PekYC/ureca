@@ -70,7 +70,7 @@ def evaluate_threshold(data_path: str, index_file: str, gt_file: str, thresholds
     return results
 
 
-results = evaluate_threshold("data/union", "phash/faiss_index", "data/union/plagiarisms.txt", [x for x in range(60, 121, 10)])
+results = evaluate_threshold("data/full_data_final", "phash/faiss_index", "data/full_data_final/plagiarisms.txt", [x for x in range(60, 121, 10)])
 
 keys = sorted(results.keys())
 
@@ -112,7 +112,15 @@ plt.show()
 
 
 
-print("Using '80' as threshold, identified plagiarisms:")
-plagiarised = find_plagiarised("data/union", "phash/faiss_index", 80)
-for k, v in plagiarised.items():
-    print(f"{k:^15} <---> {v[0]:^15}")
+# print("Using '70' as threshold, identified plagiarisms:")
+# plagiarised = find_plagiarised("data/full_data_final", "phash/faiss_index", 70)
+
+# seen_pairs = set()
+
+# for k, v in plagiarised.items():
+#     for match in v:
+#         pair = tuple(sorted((k, match)))
+        
+#         if pair not in seen_pairs:
+#             seen_pairs.add(pair)
+#             print(f"{pair[0]:^15} <---> {pair[1]:^15}")
